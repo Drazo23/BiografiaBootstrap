@@ -1,0 +1,21 @@
+#imhermanas, #pimienta, #canela{
+   
+   height: 800px;
+   background-position: center;
+    
+}
+#cart{
+    background-position: center;
+    text-align: justify;
+}
+#imgCanela{
+    border-radius: 50%;
+    height: 500px;
+}
+#imgPimienta{
+    border-radius: 50%;
+    height: 500px;
+}
+h5{
+    text-align: center;
+}
